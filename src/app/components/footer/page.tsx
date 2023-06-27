@@ -12,7 +12,7 @@ const Footer = () => {
                             alt="Web Development"
                             width={45}
                             height={45}
-                            className='rounded-full border-2  border-green-600 bg-yellow-200 hover:border-black' />
+                            className='rounded-full border-2  border-green-500 bg-yellow-200 hover:border-black' />
                     <span className="ml-3 text-xl font-bold">Muhammad Asif Shahzad</span>
                 </a>
                 <p className="text-sm text-black sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-black sm:py-2 sm:mt-0 mt-4">

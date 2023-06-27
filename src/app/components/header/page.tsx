@@ -18,7 +18,7 @@ const Header = () => {
                         <span className="ml-3 text-xl font-bold">Muhammad Asif Shahzad</span>
                     </a>
                     <nav className=" text-black md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-                        <Link href="/" className="mr-5 hover:text-green-600 font-semibold">Home</Link>
+                        <Link href="/" className="mr-5 hover:text-green-500 font-semibold">Home</Link>
                         <Link href="/about" className="mr-5 hover:text-green-600 font-semibold">About</Link>
                         <Link href="/skills" className="mr-5 hover:text-green-600 font-semibold">Skills</Link>
                         <Link href="projectMain" className="mr-5 hover:text-green-600 font-semibold ">Projects</Link>
