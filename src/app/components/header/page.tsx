@@ -14,7 +14,7 @@ const Header = () => {
                             alt="Web Development"
                             width={45}
                             height={45}
-                            className='rounded-full border-2  border-green-600 bg-yellow-200 hover:border-black' />
+                            className='rounded-full border-2  border-green-500 bg-yellow-200 hover:border-black' />
                         <span className="ml-3 text-xl font-bold">Muhammad Asif Shahzad</span>
                     </a>
                     <nav className=" text-black md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
