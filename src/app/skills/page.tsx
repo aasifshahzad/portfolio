@@ -13,9 +13,9 @@ const Skills = () => {
                 {/* new skill */}
                 <div className="flex flex-wrap -m-4 -mt-[5rem]">
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -23,7 +23,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[80%] rounded-xl bg-black border-2 border-black'>
                                     </div>
                                 </div>
@@ -32,9 +32,9 @@ const Skills = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -42,7 +42,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[90%] rounded-xl bg-black border-2   border-black'>
                                     </div>
                                 </div>
@@ -51,9 +51,9 @@ const Skills = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -61,7 +61,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[50%] rounded-xl bg-black border-2   border-black'>
                                     </div>
                                 </div>
@@ -73,9 +73,9 @@ const Skills = () => {
                 {/* new skill */}
                 <div className="flex flex-wrap -m-4">
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -83,7 +83,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[30%] rounded-xl bg-black border-2   border-black'>
                                     </div>
                                 </div>
@@ -92,9 +92,9 @@ const Skills = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -102,7 +102,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[100%] rounded-xl bg-black border-2   border-black'>
                                     </div>
                                 </div>
@@ -111,9 +111,9 @@ const Skills = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -121,7 +121,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[100%] rounded-xl bg-black border-2   border-black'>
                                     </div>
                                 </div>
@@ -133,9 +133,9 @@ const Skills = () => {
                 {/* new skill */}
                 <div className="flex flex-wrap -m-4">
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -143,7 +143,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[100%] rounded-xl bg-black border-2   border-black'>
                                     </div>
                                 </div>
@@ -152,9 +152,9 @@ const Skills = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -162,7 +162,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[90%] rounded-xl bg-black border-2   border-black'>
                                     </div>
                                 </div>
@@ -171,9 +171,9 @@ const Skills = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3">
-                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-300">
+                        <div className="flex rounded-lg h-full bg-yellow-200 p-8 flex-col border-4 border-green-400">
                             <div className="flex items-center mb-3">
-                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-300 text-black flex-shrink-0">
+                                <div className="w-6 h-6 mr-3 inline-flex items-center justify-center rounded-full bg-green-400 text-black flex-shrink-0">
                                     <AiOutlineCheckSquare className='text-bold' />
                                 </div>
                                 <h2 className="text-black text-base title-font font-semibold">
@@ -181,7 +181,7 @@ const Skills = () => {
                                 </h2>
                             </div>
                             <div className="flex-grow">
-                                <div className='relative h-1 w-full bg-green-200  rounded-xl'>
+                                <div className='relative h-1 w-full bg-green-300  rounded-xl'>
                                     <div className='absolute h-1 w-[90%] rounded-xl bg-black border-2   border-black'>
                                     </div>
                                 </div>
